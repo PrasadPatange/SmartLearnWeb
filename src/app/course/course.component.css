@@ -1,0 +1,20 @@
+.course{
+    background-color: oldlace;
+    padding: 50px 100px;
+    margin: 20px;
+
+}
+.box{
+    background-color: white;
+    padding: 10px;
+}
+
+@media screen and (max-width:600px){
+    .course{
+        background-color: oldlace;
+        padding: 50px 10px;
+       
+    
+    }
+    
+}

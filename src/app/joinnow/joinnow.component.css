@@ -1,0 +1,11 @@
+.joinnow{
+    background-color: oldlace;
+    /* padding: 110px 0px ; */
+}
+@media screen and (max-width:600px){
+    
+    .joinnow{
+        background-color: oldlace;
+        padding: 80px 30px ;
+    }
+}
